@@ -1,0 +1,1 @@
+Factorio.exe --start-server C:/Git/Factorio/DMServer.zip -c %appdata%\Factorio\config\config-server.ini --server-settings server-settings.json 
